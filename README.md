@@ -16,6 +16,6 @@
     </style>
 </head>
 <body>
-    <iframe src="https://example.com/live-match-stream" allowfullscreen></iframe>
+    <iframe src="https://m.cricbuzz.com/cricket-match/live-scores" allowfullscreen></iframe>
 </body>
 </html>
