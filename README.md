@@ -1,2 +1,1 @@
-<iframe src="https://www.espncricinfo.com/live-cricket-score" width="100%" height="800px" style="border:none;"></iframe>
-
+<iframe src="https://widget.crictimes.org/" style="width:100%;min-height: 450px;" frameborder="0" scrolling="yes"></iframe>
