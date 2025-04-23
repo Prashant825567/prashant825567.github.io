@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>EarthBetz Login Embed</title>
+  <title>Live Match Scoreboard</title>
 </head>
 <body>
 
-<h2>EarthBetz Login Page</h2>
+<h2>Live Match Score</h2>
 
-<iframe src="https://www.earthbetz.com/login" width="100%" height="600" style="border:1px solid #ccc;">
-  Your browser does not support iframes.
+<iframe src="https://www.cricbuzz.com/cricket-match/live-scores" width="100%" height="600" style="border:1px solid #ccc;">
+  Live scores cannot be displayed.
 </iframe>
 
 </body>
 </html>
+
