@@ -1,16 +1,21 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Live Match Scoreboard</title>
+    <title>Live Match</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+        }
+        iframe {
+            width: 100vw;
+            height: 100vh;
+            border: none;
+        }
+    </style>
 </head>
 <body>
-
-<h2>Live Match Score</h2>
-
-<iframe src="https://www.cricbuzz.com/cricket-match/live-scores" width="100%" height="600" style="border:1px solid #ccc;">
-  Live scores cannot be displayed.
-</iframe>
-
+    <iframe src="https://example.com/live-match-stream" allowfullscreen></iframe>
 </body>
 </html>
-
